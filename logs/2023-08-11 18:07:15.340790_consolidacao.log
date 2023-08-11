@@ -1,0 +1,11 @@
+2023-08-11 18:07:15,346 - INFO - Iniciando consolidação campus CIGR
+2023-08-11 18:07:15,356 - INFO - carregando palnilha de levantamento fisico campus CIGR
+2023-08-11 18:07:15,401 - INFO - carregando palnilha de estoque suap campus CIGR
+2023-08-11 18:07:15,426 - INFO - tratamdp dados da planilha de levantameto fisico CIGR
+2023-08-11 18:07:15,429 - INFO - removendo dados duplicados
+2023-08-11 18:07:15,429 - INFO - cruzando dados entre levantamento fisico e suap
+2023-08-11 18:07:15,433 - INFO - consolidando dados
+2023-08-11 18:07:15,433 - INFO - exportando planilha de consolidação
+2023-08-11 18:07:15,512 - INFO - consolidação campus CIGR finalizada
+2023-08-11 18:07:15,518 - INFO - montando planilha de ajustes 
+2023-08-11 18:07:15,533 - INFO - exportando planilha de ajustes 
