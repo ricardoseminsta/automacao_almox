@@ -1,0 +1,28 @@
+2023-08-25 16:19:02,442 - INFO - iniciando extarção campus CAFI
+2023-08-25 16:19:02,598 - INFO - Extarção campus CAFI finalizada
+2023-08-25 16:19:02,615 - INFO - abrindo suap
+2023-08-25 16:19:33,225 - INFO - iniciando extarção campus CAFI
+2023-08-25 16:19:47,966 - INFO - iniciando extarção campus CAFI
+2023-08-25 16:20:09,117 - INFO - iniciando extarção campus CAFI
+2023-08-25 16:20:09,220 - INFO - Extarção campus CAFI finalizada
+2023-08-25 16:20:09,238 - INFO - abrindo suap
+2023-08-25 16:21:32,469 - INFO - iniciando extarção campus CAFI
+2023-08-25 16:21:32,565 - INFO - Extarção campus CAFI finalizada
+2023-08-25 16:21:32,580 - INFO - abrindo suap
+2023-08-25 16:21:38,316 - INFO - inserindo nome e senha
+2023-08-25 16:21:42,219 - INFO - criando tabela
+2023-08-25 16:21:42,221 - DEBUG - recolhendo dados da pagina 1
+2023-08-25 16:24:16,185 - DEBUG - recolhendo dados da pagina 2
+2023-08-25 16:26:32,496 - DEBUG - recolhendo dados da pagina 3
+2023-08-25 16:29:15,205 - DEBUG - recolhendo dados da pagina 4
+2023-08-25 16:32:14,760 - DEBUG - recolhendo dados da pagina 5
+2023-08-25 16:34:27,630 - DEBUG - recolhendo dados da pagina 6
+2023-08-25 16:37:21,179 - DEBUG - recolhendo dados da pagina 7
+2023-08-25 16:40:04,645 - DEBUG - recolhendo dados da pagina 8
+2023-08-25 16:42:45,473 - DEBUG - recolhendo dados da pagina 9
+2023-08-25 16:45:20,497 - DEBUG - recolhendo dados da pagina 10
+2023-08-25 16:48:04,317 - DEBUG - recolhendo dados da pagina 11
+2023-08-25 16:48:05,786 - WARNING - fim da paginação
+2023-08-25 16:48:05,805 - DEBUG - iniciando fatiamento da tabela
+2023-08-25 16:48:05,807 - DEBUG - montando DataFrame
+2023-08-25 16:50:16,019 - DEBUG - exportando arquivo .xlsx
