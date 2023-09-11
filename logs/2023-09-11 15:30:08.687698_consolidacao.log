@@ -1,0 +1,11 @@
+2023-09-11 15:30:08,691 - INFO - Iniciando consolidação campus CIPJ
+2023-09-11 15:30:09,258 - INFO - carregando palnilha de levantamento fisico campus CIPJ
+2023-09-11 15:31:15,716 - INFO - carregando palnilha de estoque suap campus CIPJ
+2023-09-11 15:32:26,870 - INFO - tratamdp dados da planilha de levantameto fisico CIPJ
+2023-09-11 15:33:28,993 - INFO - removendo dados duplicados
+2023-09-11 15:34:42,082 - INFO - cruzando dados entre levantamento fisico e suap
+2023-09-11 15:35:42,202 - INFO - consolidando dados
+2023-09-11 15:36:56,302 - INFO - exportando planilha de consolidação
+2023-09-11 15:38:02,524 - INFO - consolidação campus CIPJ finalizada
+2023-09-11 15:38:02,534 - INFO - montando planilha de ajustes 
+2023-09-11 15:39:14,651 - INFO - exportando planilha de ajustes 
