@@ -1,0 +1,25 @@
+2023-10-18 15:18:00,860 - INFO - iniciando extarção campus CBLJ
+2023-10-18 15:18:00,954 - INFO - Extarção campus CBLJ finalizada
+2023-10-18 15:18:00,969 - INFO - abrindo suap
+2023-10-18 15:18:04,865 - INFO - inserindo nome e senha
+2023-10-18 15:18:08,814 - INFO - criando tabela
+2023-10-18 15:18:08,816 - DEBUG - recolhendo dados da pagina 1
+2023-10-18 15:20:59,374 - DEBUG - recolhendo dados da pagina 2
+2023-10-18 15:23:32,028 - DEBUG - recolhendo dados da pagina 3
+2023-10-18 15:27:00,767 - DEBUG - recolhendo dados da pagina 4
+2023-10-18 15:31:19,169 - DEBUG - recolhendo dados da pagina 5
+2023-10-18 15:33:34,579 - DEBUG - recolhendo dados da pagina 6
+2023-10-18 15:37:11,170 - DEBUG - recolhendo dados da pagina 7
+2023-10-18 15:41:43,742 - DEBUG - recolhendo dados da pagina 8
+2023-10-18 15:46:22,019 - DEBUG - recolhendo dados da pagina 9
+2023-10-18 15:50:00,539 - DEBUG - recolhendo dados da pagina 10
+2023-10-18 15:54:35,860 - DEBUG - recolhendo dados da pagina 11
+2023-10-18 15:57:12,219 - DEBUG - recolhendo dados da pagina 12
+2023-10-18 15:59:30,647 - DEBUG - recolhendo dados da pagina 13
+2023-10-18 16:03:30,342 - DEBUG - recolhendo dados da pagina 14
+2023-10-18 16:08:07,368 - DEBUG - recolhendo dados da pagina 15
+2023-10-18 16:12:24,573 - DEBUG - recolhendo dados da pagina 16
+2023-10-18 16:12:26,085 - WARNING - fim da paginação
+2023-10-18 16:12:26,092 - DEBUG - iniciando fatiamento da tabela
+2023-10-18 16:12:26,103 - DEBUG - montando DataFrame
+2023-10-18 16:15:34,305 - DEBUG - exportando arquivo .xlsx
