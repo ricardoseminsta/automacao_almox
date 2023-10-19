@@ -396,3 +396,20 @@ console.error: ({})
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
 1697656848647	Marionette	INFO	Stopped listening on port 44029
+1697737642231	geckodriver	INFO	Listening on 127.0.0.1:36435
+1697737643258	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyweSuq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1697737644300	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1697737644476	Marionette	INFO	Listening on port 45111
+Read port: 45111
+1697737644884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+JavaScript error: https://suap.ifpe.edu.br/djtools_media/lib/ext/locale/ext-lang-pt_BR.js, line 25: ReferenceError: Ext is not defined
+JavaScript error: https://suap.ifpe.edu.br/, line 62: ReferenceError: Ext is not defined
+JavaScript error: https://suap.ifpe.edu.br/djtools_media/lib/ext_menu/menus.js, line 9: ReferenceError: Ext is not defined
+1697741655208	Marionette	INFO	Stopped listening on port 45111
