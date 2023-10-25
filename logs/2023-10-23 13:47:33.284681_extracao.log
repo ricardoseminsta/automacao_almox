@@ -1,0 +1,16 @@
+2023-10-23 13:47:33,290 - INFO - iniciando extarção campus COLI
+2023-10-23 13:47:33,405 - INFO - Extarção campus COLI finalizada
+2023-10-23 13:47:33,446 - INFO - abrindo suap
+2023-10-23 13:47:40,088 - INFO - inserindo nome e senha
+2023-10-23 13:47:44,706 - INFO - criando tabela
+2023-10-23 13:47:44,707 - DEBUG - recolhendo dados da pagina 1
+2023-10-23 13:52:15,931 - DEBUG - recolhendo dados da pagina 2
+2023-10-23 13:54:47,133 - DEBUG - recolhendo dados da pagina 3
+2023-10-23 13:58:27,306 - DEBUG - recolhendo dados da pagina 4
+2023-10-23 14:02:25,491 - DEBUG - recolhendo dados da pagina 5
+2023-10-23 14:04:50,801 - DEBUG - recolhendo dados da pagina 6
+2023-10-23 14:07:37,529 - DEBUG - recolhendo dados da pagina 7
+2023-10-23 14:07:39,714 - WARNING - fim da paginação
+2023-10-23 14:07:39,714 - DEBUG - iniciando fatiamento da tabela
+2023-10-23 14:07:39,715 - DEBUG - montando DataFrame
+2023-10-23 14:10:06,765 - DEBUG - exportando arquivo .xlsx
