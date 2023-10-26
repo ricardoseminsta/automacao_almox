@@ -427,3 +427,20 @@ console.error: ({})
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
 1698081318917	Marionette	INFO	Stopped listening on port 43325
+1698234497565	geckodriver	INFO	Listening on 127.0.0.1:37307
+1698234498575	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFfDtZv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698234499654	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698234500052	Marionette	INFO	Listening on port 43189
+Read port: 43189
+1698234500282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1698234528894	Marionette	INFO	Stopped listening on port 43189
+JavaScript warning: https://suap.ifpe.edu.br/djtools_media/lib/ext/ext-all.js, line 15: Script terminated by timeout at:
+b@https://suap.ifpe.edu.br/djtools_media/lib/ext/ext-all.js:15:116323
+

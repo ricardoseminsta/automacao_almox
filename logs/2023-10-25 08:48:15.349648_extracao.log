@@ -1,0 +1,18 @@
+2023-10-25 08:48:15,357 - INFO - iniciando extarção campus CBAR
+2023-10-25 08:48:15,444 - INFO - Extarção campus CBAR finalizada
+2023-10-25 08:48:15,459 - INFO - abrindo suap
+2023-10-25 08:48:22,332 - INFO - inserindo nome e senha
+2023-10-25 08:48:26,501 - INFO - criando tabela
+2023-10-25 08:48:26,501 - DEBUG - recolhendo dados da pagina 1
+2023-10-25 08:48:29,052 - DEBUG - recolhendo dados da pagina 2
+2023-10-25 08:48:31,623 - DEBUG - recolhendo dados da pagina 3
+2023-10-25 08:48:34,243 - DEBUG - recolhendo dados da pagina 4
+2023-10-25 08:48:37,487 - DEBUG - recolhendo dados da pagina 5
+2023-10-25 08:48:39,944 - DEBUG - recolhendo dados da pagina 6
+2023-10-25 08:48:42,329 - DEBUG - recolhendo dados da pagina 7
+2023-10-25 08:48:44,985 - DEBUG - recolhendo dados da pagina 8
+2023-10-25 08:48:47,473 - DEBUG - recolhendo dados da pagina 9
+2023-10-25 08:48:48,815 - WARNING - fim da paginação
+2023-10-25 08:48:48,815 - DEBUG - iniciando fatiamento da tabela
+2023-10-25 08:48:48,815 - DEBUG - montando DataFrame
+2023-10-25 08:48:48,831 - DEBUG - exportando arquivo .xlsx
