@@ -1,0 +1,31 @@
+2023-10-26 16:43:25,400 - INFO - iniciando extarção campus CREC
+2023-10-26 16:43:25,490 - INFO - Extarção campus CREC finalizada
+2023-10-26 16:43:25,503 - INFO - abrindo suap
+2023-10-26 16:43:30,625 - INFO - inserindo nome e senha
+2023-10-26 16:43:34,796 - INFO - criando tabela
+2023-10-26 16:43:34,800 - DEBUG - recolhendo dados da pagina 1
+2023-10-26 16:47:18,581 - DEBUG - recolhendo dados da pagina 2
+2023-10-26 16:49:49,879 - DEBUG - recolhendo dados da pagina 3
+2023-10-26 16:52:08,335 - DEBUG - recolhendo dados da pagina 4
+2023-10-26 16:54:39,820 - DEBUG - recolhendo dados da pagina 5
+2023-10-26 16:57:54,130 - DEBUG - recolhendo dados da pagina 6
+2023-10-26 17:01:04,523 - DEBUG - recolhendo dados da pagina 7
+2023-10-26 17:04:45,044 - DEBUG - recolhendo dados da pagina 8
+2023-10-26 17:07:26,625 - DEBUG - recolhendo dados da pagina 9
+2023-10-26 17:09:47,981 - DEBUG - recolhendo dados da pagina 10
+2023-10-26 17:14:28,645 - DEBUG - recolhendo dados da pagina 11
+2023-10-26 17:17:31,225 - DEBUG - recolhendo dados da pagina 12
+2023-10-26 17:21:21,535 - DEBUG - recolhendo dados da pagina 13
+2023-10-26 17:24:11,982 - DEBUG - recolhendo dados da pagina 14
+2023-10-26 17:26:41,570 - DEBUG - recolhendo dados da pagina 15
+2023-10-26 17:30:34,529 - DEBUG - recolhendo dados da pagina 16
+2023-10-26 17:30:36,008 - WARNING - fim da paginação
+2023-10-26 17:30:36,015 - DEBUG - iniciando fatiamento da tabela
+2023-10-26 17:30:36,020 - DEBUG - montando DataFrame
+2023-10-26 17:34:25,160 - DEBUG - exportando arquivo .xlsx
+2023-10-27 15:39:02,946 - INFO - iniciando extarção campus CREC
+2023-10-27 15:39:03,031 - INFO - Extarção campus CREC finalizada
+2023-10-27 15:39:03,049 - INFO - abrindo suap
+2023-10-27 15:39:10,384 - INFO - inserindo nome e senha
+2023-10-27 15:39:13,853 - INFO - criando tabela
+2023-10-27 15:39:13,854 - DEBUG - recolhendo dados da pagina 1

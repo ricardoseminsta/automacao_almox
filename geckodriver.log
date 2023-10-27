@@ -444,3 +444,78 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript warning: https://suap.ifpe.edu.br/djtools_media/lib/ext/ext-all.js, line 15: Script terminated by timeout at:
 b@https://suap.ifpe.edu.br/djtools_media/lib/ext/ext-all.js:15:116323
 
+1698343420765	geckodriver	INFO	Listening on 127.0.0.1:56175
+1698343421776	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4iWEBo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698343422790	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698343422957	Marionette	INFO	Listening on port 37813
+Read port: 37813
+1698343423191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1698343779128	Marionette	INFO	Stopped listening on port 37813
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1698343848149	geckodriver	INFO	Listening on 127.0.0.1:58327
+1698343849155	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLi8sMK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698343851273	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698343851458	Marionette	INFO	Listening on port 41395
+Read port: 41395
+1698343851825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1698346168343	Marionette	INFO	Stopped listening on port 41395
+1698349405635	geckodriver	INFO	Listening on 127.0.0.1:50047
+1698349406634	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGLenpG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698349407545	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698349407733	Marionette	INFO	Listening on port 46563
+Read port: 46563
+1698349407799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1698352748330	Marionette	INFO	Stopped listening on port 46563
+1698431945019	geckodriver	INFO	Listening on 127.0.0.1:56695
+1698431946031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0dv8O3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698431947156	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698431947358	Marionette	INFO	Listening on port 34291
+Read port: 34291
+1698431947638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1698432125602	geckodriver	INFO	Listening on 127.0.0.1:59221
+1698432126614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0Q6299"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698432127387	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698432127531	Marionette	INFO	Listening on port 46063
+Read port: 46063
+1698432127704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suap.ifpe.edu.br."
+1698432180948	Marionette	INFO	Stopped listening on port 46063
